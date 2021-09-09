@@ -1,0 +1,2 @@
+# Encouragement-Bot
+Hinata Bot
