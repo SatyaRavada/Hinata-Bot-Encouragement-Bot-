@@ -1,4 +1,5 @@
 #Hinata-Bot-Encouragement-Bot
+Encourages you with a message if the message contains sad words.
 Requests: 
 for inspiring quote -$inspireq,
 for anime quote-$animeq,
